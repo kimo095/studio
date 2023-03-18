@@ -1,0 +1,149 @@
+.firstBackground{
+  text-align: center;
+  color: #FFF;
+  margin-top: 250px;
+}
+.scorpi {
+  border: 2px solid white; /* set border to transparent */
+  margin-top: 260px;
+  display: inline-block;
+  margin: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.links{
+  padding-top: 200px;
+  position: absolute;
+  border-left: 89px;  
+}
+.SM{
+  padding-top: 380px;
+  position: absolute;
+  border: 0 ;
+}
+.copy{
+  padding-left: 800px;
+}
+.companyname{
+  position: absolute;
+  padding-left: 1200px;
+}
+.footer1 {
+  position: relative;
+}
+.footer{
+  background-color: #474E4B;
+  height: 450px;
+  width: 1600px;
+  padding: 0;
+  border: 0;
+}
+.footertext{
+  padding: 90px;
+  color: white;
+}
+.footer1{
+  background-color:#B18A76;
+  height: 480px;
+  width: 1600px;
+  color: black;
+}
+.footer1text{
+  color: black;
+}
+.my-div {
+  background-image: url('/images/COVER1.png');
+  background-repeat: no-repeat;
+  width: 1600px;
+  padding: 0;
+  margin: 0;
+  height: 900px;
+}
+.my-div1 {
+    background-image: url('/images/COVER2.png');
+    background-repeat: no-repeat;
+    width: 1260px;
+    height: 600px;
+    color: white;
+  }
+.progetti{
+  padding-top: 250px;
+}
+.lorem{
+  padding-top: 70px;
+}
+.studio{
+  padding-left:550px;
+}
+ .flexbox-container{
+    display: flex;
+  }
+.flexbox-item{
+    margin: 60px;
+    width: 1800px;
+}
+  .flexbox-item1{
+    margin: 86px;
+    width: 1423px;
+}
+  .flexbox-item-1 {
+    min-height: 100px;
+    width: 600px;
+}
+  .flexbox-item-2 {
+    min-height: 100px;
+    width: 600px;
+}
+  .flexbox-item-4 {
+    height: 100%;
+}
+  .flexbox-item-5 {
+    
+    height: 100%;
+}
+.img5{
+    border-top:    90px solid #E1E1DF;
+    border-right:  90px solid #E1E1DF;
+    border-bottom: 210px solid #E1E1DF;
+    border-left:   90px solid  #E1E1DF;
+    position: relative;
+}
+.img5text{
+  border-top: 400px;
+  position: absolute;
+}
+ .container-fluid{
+  padding: 3% 15%
+  }
+  /* navbars */
+  .navy{
+    font-family:"Ubuntu";
+    font-size: 2.5rem;
+    font-weight:bold;
+    color: #fff;
+    margin-left: 5%;
+  }
+  .navbary{
+    padding-bottom: 4.5rem;
+  }
+  .nav-item{
+  padding: 0 18px
+  }
+  .nav-link{
+  font-size: 1.2rem
+  }
+  .navbar-nav{
+  padding-left: 50px
+  }
+  /*testimonials*/
+  #testimonials{
+    text-align: center;
+    background-color: #E1E1DF;
+    width: 1600px;
+  }
+  .carousel-item{
+      padding: 7% 15% ;
+  }
+
+  
+ 
